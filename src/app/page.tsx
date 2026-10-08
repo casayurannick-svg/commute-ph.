@@ -166,7 +166,7 @@ export default function CommuterHomePage() {
           </h1>
           <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
             I-kumpara ang pamasahe sa LRT, MRT, Bus, Jeepney, UV Express, at Grab/Angkas base sa opisyal
-            na taripa ng gobyerno. Zero hardcoded prices — lahat ay galing sa Turso database.
+            na taripa ng gobyerno. Zero hardcoded prices
           </p>
         </section>
 

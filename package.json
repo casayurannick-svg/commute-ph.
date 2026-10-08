@@ -11,6 +11,7 @@
     "test:watch": "vitest",
     "db:seed": "tsx scripts/seed.ts",
     "db:push": "drizzle-kit push",
+    "seed:fares": "tsx scripts/seed-fares.ts",
     "fetch-pois": "tsx scripts/fetch-osm-pois.ts"
   },
   "dependencies": {

@@ -10,9 +10,16 @@ CommutePH is a modern, open-source transit cost calculator and fare engine built
 - All fare calculations and mode comparisons are powered by deterministic pure functions (`calculateFare`, `compareModes`) located in `src/lib/engine/`.
 - Evaluates base fares, per-kilometer rates, distance thresholds, and mandatory 20% discounts for Students, Senior Citizens, and PWDs (under RA 9994 / RA 10931).
 
-### 2. Zero Hardcoded Prices (Turso Data-Driven)
+### 2. Zero Hardcoded Prices (Turso Data-Driven 2026 Fare Matrix)
 - No fare matrices or prices are hardcoded in the frontend or engine logic.
 - All fare rules are fetched dynamically from a **Turso (LibSQL/SQLite)** database managed via Drizzle ORM.
+- **Official 2026 Metro Manila Fare Matrix**:
+  - **Traditional Jeepney**: ₱14.00 base fare (first 4 km) + ₱2.00 / per-km
+  - **Modern PUJ / E-Jeepney**: ₱17.00 base fare (first 4 km) + ₱2.40 / per-km
+  - **Aircon City Bus**: ₱18.00 base fare (first 5 km) + ₱2.98 / per-km
+  - **Regular Metered Taxi**: ₱45.00 base fare + ₱13.50 / per-km (+ ₱2.00/min waiting)
+  - **GrabCar (4-Wheel Ride-Hail)**: ₱65.00 base fare (1st km) + ₱12.00 / per-km
+  - **Motorcycle Taxi (Angkas/JoyRide/MoveIt)**: ₱40.00 base fare (1st km) + ₱18.00 / per-km
 - Admin dashboard (`/admin`) permits live updates to fare rates, base distances, and verification statuses.
 
 ### 3. Interactive Route Mapping

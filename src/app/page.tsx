@@ -31,7 +31,17 @@ import {
   SortOption,
   FareCalculationResult,
 } from '@/lib/engine/types';
+import dynamic from 'next/dynamic';
 import { compareModes } from '@/lib/engine/compare';
+
+const RouteMap = dynamic(() => import('@/components/RouteMap'), {
+  ssr: false,
+  loading: () => (
+    <div className="w-full h-[300px] rounded-xl bg-slate-950 border border-slate-800 animate-pulse flex items-center justify-center text-slate-500 text-xs">
+      Loading Map...
+    </div>
+  ),
+});
 
 // Preset distances in Metro Manila
 const NCR_PRESETS = [
@@ -172,6 +182,11 @@ export default function CommuterHomePage() {
 
         {/* Form Card (Mobile-First) */}
         <section className="bg-slate-900 border border-slate-800 rounded-2xl p-4 sm:p-6 shadow-xl space-y-5">
+          {/* Route Map Component */}
+          <div>
+            <RouteMap />
+          </div>
+
           {/* Distance Input */}
           <div>
             <div className="flex items-center justify-between mb-2">

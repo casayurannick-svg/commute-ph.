@@ -1,0 +1,2116 @@
+[
+  {
+    "id": "osm-25389198",
+    "name": "Protacio Hospital",
+    "category": "hospital",
+    "lat": 14.5242,
+    "lng": 120.9966
+  },
+  {
+    "id": "osm-253787849",
+    "name": "Carmona",
+    "category": "transit_hub",
+    "lat": 14.3357,
+    "lng": 121.034
+  },
+  {
+    "id": "osm-255051235",
+    "name": "UST Hospital Clinical Division",
+    "category": "hospital",
+    "lat": 14.6122,
+    "lng": 120.9898
+  },
+  {
+    "id": "osm-255052939",
+    "name": "Las Piñas Plaza Commercial Center",
+    "category": "mall",
+    "lat": 14.4639,
+    "lng": 120.9671
+  },
+  {
+    "id": "osm-255053020",
+    "name": "Isetann",
+    "category": "mall",
+    "lat": 14.6228,
+    "lng": 121.0536
+  },
+  {
+    "id": "osm-255059501",
+    "name": "Caloocan PNR Station",
+    "category": "transit_hub",
+    "lat": 14.6587,
+    "lng": 120.9738
+  },
+  {
+    "id": "osm-255059925",
+    "name": "Our Lady of Mercy Hospital",
+    "category": "hospital",
+    "lat": 14.7215,
+    "lng": 121.0398
+  },
+  {
+    "id": "osm-255060024",
+    "name": "Farmers Market Bargain Center",
+    "category": "mall",
+    "lat": 14.6186,
+    "lng": 121.0532
+  },
+  {
+    "id": "osm-255060717",
+    "name": "A. R. Bautista Children And General Hospital",
+    "category": "hospital",
+    "lat": 14.7303,
+    "lng": 121.0434
+  },
+  {
+    "id": "osm-255060751",
+    "name": "Mightee Mart",
+    "category": "mall",
+    "lat": 14.6373,
+    "lng": 120.9965
+  },
+  {
+    "id": "osm-255060785",
+    "name": "St. John Hospital",
+    "category": "hospital",
+    "lat": 14.6932,
+    "lng": 120.9656
+  },
+  {
+    "id": "osm-255061867",
+    "name": "Casual General Hospital",
+    "category": "hospital",
+    "lat": 14.737,
+    "lng": 121.0706
+  },
+  {
+    "id": "osm-255062367",
+    "name": "Rvc Commercial Center",
+    "category": "mall",
+    "lat": 14.4823,
+    "lng": 121.0459
+  },
+  {
+    "id": "osm-255063024",
+    "name": "J. P. Sioson General Hospital And Colleges",
+    "category": "hospital",
+    "lat": 14.6599,
+    "lng": 121.0251
+  },
+  {
+    "id": "osm-255063833",
+    "name": "10th Avenue Shopper's Mall",
+    "category": "mall",
+    "lat": 14.6513,
+    "lng": 120.9842
+  },
+  {
+    "id": "osm-255066513",
+    "name": "Fairview Polymedic Hospital",
+    "category": "hospital",
+    "lat": 14.7294,
+    "lng": 121.0425
+  },
+  {
+    "id": "osm-255067973",
+    "name": "Mother Regina",
+    "category": "hospital",
+    "lat": 14.5835,
+    "lng": 121.0851
+  },
+  {
+    "id": "osm-255069907",
+    "name": "Masagana Citymall",
+    "category": "mall",
+    "lat": 14.5475,
+    "lng": 120.999
+  },
+  {
+    "id": "osm-255070486",
+    "name": "Acebedo General Hospital",
+    "category": "hospital",
+    "lat": 14.7188,
+    "lng": 121.0051
+  },
+  {
+    "id": "osm-255071671",
+    "name": "Tanchoco Clinic",
+    "category": "hospital",
+    "lat": 14.6756,
+    "lng": 120.9432
+  },
+  {
+    "id": "osm-255071879",
+    "name": "Our Lady Of Grace Hospital",
+    "category": "hospital",
+    "lat": 14.6487,
+    "lng": 120.9818
+  },
+  {
+    "id": "osm-255071890",
+    "name": "Irasan Commercial Center",
+    "category": "mall",
+    "lat": 14.497,
+    "lng": 120.9925
+  },
+  {
+    "id": "osm-301828774",
+    "name": "Eastwood City Walk 1",
+    "category": "mall",
+    "lat": 14.609,
+    "lng": 121.0809
+  },
+  {
+    "id": "osm-301977497",
+    "name": "Eastwood City Walk 2",
+    "category": "mall",
+    "lat": 14.61,
+    "lng": 121.0811
+  },
+  {
+    "id": "osm-306408839",
+    "name": "Eastwood Mall",
+    "category": "mall",
+    "lat": 14.6102,
+    "lng": 121.0798
+  },
+  {
+    "id": "osm-360212096",
+    "name": "Pacita Main Gate",
+    "category": "transit_hub",
+    "lat": 14.3469,
+    "lng": 121.0637
+  },
+  {
+    "id": "osm-418998373",
+    "name": "Cyber and Fashion Mall",
+    "category": "mall",
+    "lat": 14.6078,
+    "lng": 121.0804
+  },
+  {
+    "id": "osm-560411109",
+    "name": "Klinika Tomasino",
+    "category": "hospital",
+    "lat": 14.844,
+    "lng": 121.0931
+  },
+  {
+    "id": "osm-589717017",
+    "name": "B A Hospital",
+    "category": "hospital",
+    "lat": 14.7385,
+    "lng": 120.9581
+  },
+  {
+    "id": "osm-589927760",
+    "name": "A. Roces Transport Terminal",
+    "category": "transit_hub",
+    "lat": 14.6228,
+    "lng": 121.0513
+  },
+  {
+    "id": "osm-597011693",
+    "name": "F M Cruz Ortopedic",
+    "category": "hospital",
+    "lat": 14.9065,
+    "lng": 120.8696
+  },
+  {
+    "id": "osm-597116607",
+    "name": "Tawiran Public Clinic",
+    "category": "hospital",
+    "lat": 14.7445,
+    "lng": 120.911
+  },
+  {
+    "id": "osm-600381971",
+    "name": "Rizal Provincial Hospital",
+    "category": "hospital",
+    "lat": 14.5166,
+    "lng": 121.2392
+  },
+  {
+    "id": "osm-643218009",
+    "name": "Commcare, Inc.",
+    "category": "hospital",
+    "lat": 14.5013,
+    "lng": 121.0238
+  },
+  {
+    "id": "osm-650019046",
+    "name": "Malabon Tricycle Terminal",
+    "category": "transit_hub",
+    "lat": 14.3817,
+    "lng": 120.8789
+  },
+  {
+    "id": "osm-660610237",
+    "name": "Contreras Medical Clinic and Hospital",
+    "category": "hospital",
+    "lat": 14.4133,
+    "lng": 120.8575
+  },
+  {
+    "id": "osm-700738852",
+    "name": "Gateway Plaza UV Express Station",
+    "category": "transit_hub",
+    "lat": 14.6226,
+    "lng": 121.0526
+  },
+  {
+    "id": "osm-705788722",
+    "name": "NAIA Domestic Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.5272,
+    "lng": 120.9991
+  },
+  {
+    "id": "osm-800071149",
+    "name": "San Pedro",
+    "category": "transit_hub",
+    "lat": 14.3453,
+    "lng": 121.0466
+  },
+  {
+    "id": "osm-882518123",
+    "name": "EENT Hospital",
+    "category": "hospital",
+    "lat": 14.85,
+    "lng": 120.8227
+  },
+  {
+    "id": "osm-882518130",
+    "name": "Santos Clinic",
+    "category": "hospital",
+    "lat": 14.8519,
+    "lng": 120.819
+  },
+  {
+    "id": "osm-924683161",
+    "name": "Silang Doctors Hospital",
+    "category": "hospital",
+    "lat": 14.228,
+    "lng": 120.9738
+  },
+  {
+    "id": "osm-941241329",
+    "name": "Annie's Plaza",
+    "category": "mall",
+    "lat": 14.3909,
+    "lng": 120.8501
+  },
+  {
+    "id": "osm-965963133",
+    "name": "Farmers Market UV Express Station",
+    "category": "transit_hub",
+    "lat": 14.6197,
+    "lng": 121.0517
+  },
+  {
+    "id": "osm-969621020",
+    "name": "Manila North Harbor",
+    "category": "transit_hub",
+    "lat": 14.6094,
+    "lng": 120.9601
+  },
+  {
+    "id": "osm-1169222444",
+    "name": "BGC Bus",
+    "category": "transit_hub",
+    "lat": 14.5471,
+    "lng": 121.0555
+  },
+  {
+    "id": "osm-1260852424",
+    "name": "Tandang Sora - Quezon City Hall Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.6746,
+    "lng": 121.0434
+  },
+  {
+    "id": "osm-1279209740",
+    "name": "Amisola Maternity Hospital",
+    "category": "hospital",
+    "lat": 14.6329,
+    "lng": 120.9781
+  },
+  {
+    "id": "osm-1294244416",
+    "name": "Alabang Medical Clinic",
+    "category": "hospital",
+    "lat": 14.391,
+    "lng": 121.0443
+  },
+  {
+    "id": "osm-1308919405",
+    "name": "Dayrit Derma Clinic",
+    "category": "hospital",
+    "lat": 14.2458,
+    "lng": 120.9759
+  },
+  {
+    "id": "osm-1319917493",
+    "name": "Napindan Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.5531,
+    "lng": 121.0728
+  },
+  {
+    "id": "osm-1425035225",
+    "name": "UV Dau/Angeles Pampanga station",
+    "category": "transit_hub",
+    "lat": 14.8075,
+    "lng": 120.9414
+  },
+  {
+    "id": "osm-1449251758",
+    "name": "Isarog Lines",
+    "category": "transit_hub",
+    "lat": 14.6183,
+    "lng": 121.0513
+  },
+  {
+    "id": "osm-1468022888",
+    "name": "General Mariano Alvarez (GMA) Hospital",
+    "category": "hospital",
+    "lat": 14.2969,
+    "lng": 121.0065
+  },
+  {
+    "id": "osm-1489297922",
+    "name": "Petron",
+    "category": "transit_hub",
+    "lat": 14.6139,
+    "lng": 121.0542
+  },
+  {
+    "id": "osm-1646787549",
+    "name": "SM Fairview - Public Transport Terminal A",
+    "category": "transit_hub",
+    "lat": 14.7342,
+    "lng": 121.0609
+  },
+  {
+    "id": "osm-1649835258",
+    "name": "Barney Autolines",
+    "category": "transit_hub",
+    "lat": 14.6235,
+    "lng": 121.0487
+  },
+  {
+    "id": "osm-1728914761",
+    "name": "Aesthetic Avenue Medical Clinic",
+    "category": "hospital",
+    "lat": 14.4422,
+    "lng": 120.9916
+  },
+  {
+    "id": "osm-1728914773",
+    "name": "BF Maternity Clinic",
+    "category": "hospital",
+    "lat": 14.4423,
+    "lng": 120.9916
+  },
+  {
+    "id": "osm-1748335441",
+    "name": "Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.588,
+    "lng": 121.1736
+  },
+  {
+    "id": "osm-1840856294",
+    "name": "Dolores Loop",
+    "category": "transit_hub",
+    "lat": 14.5653,
+    "lng": 121.139
+  },
+  {
+    "id": "osm-1974808753",
+    "name": "Carriedo Arcade",
+    "category": "mall",
+    "lat": 14.5987,
+    "lng": 120.9828
+  },
+  {
+    "id": "osm-1976469675",
+    "name": "Isetann Cinerama Recto",
+    "category": "mall",
+    "lat": 14.603,
+    "lng": 120.9843
+  },
+  {
+    "id": "osm-1998698325",
+    "name": "Alfonso Clinic",
+    "category": "hospital",
+    "lat": 14.5682,
+    "lng": 121.0861
+  },
+  {
+    "id": "osm-2006277622",
+    "name": "Toledo Hospital",
+    "category": "hospital",
+    "lat": 14.1433,
+    "lng": 120.9561
+  },
+  {
+    "id": "osm-2059301663",
+    "name": "Jeepney Terminal: Litex-Montalban",
+    "category": "transit_hub",
+    "lat": 14.7014,
+    "lng": 121.0869
+  },
+  {
+    "id": "osm-2127656086",
+    "name": "LISP 2",
+    "category": "transit_hub",
+    "lat": 14.1955,
+    "lng": 121.1438
+  },
+  {
+    "id": "osm-2127686693",
+    "name": "Suero's Transport Terminal (Canlubang)",
+    "category": "transit_hub",
+    "lat": 14.2123,
+    "lng": 121.1342
+  },
+  {
+    "id": "osm-2127709631",
+    "name": "Palo-Alto Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.2089,
+    "lng": 121.1235
+  },
+  {
+    "id": "osm-2524731072",
+    "name": "South Supermarket Filcab Station",
+    "category": "transit_hub",
+    "lat": 14.4089,
+    "lng": 120.9405
+  },
+  {
+    "id": "osm-2524731073",
+    "name": "Lancaster Filcab Station",
+    "category": "transit_hub",
+    "lat": 14.4045,
+    "lng": 120.904
+  },
+  {
+    "id": "osm-2565829028",
+    "name": "Valenzuela City Medical Center",
+    "category": "hospital",
+    "lat": 14.6895,
+    "lng": 120.9777
+  },
+  {
+    "id": "osm-2610273475",
+    "name": "St. Martin Maternity and Pediatrics Hospital",
+    "category": "hospital",
+    "lat": 14.4257,
+    "lng": 120.8742
+  },
+  {
+    "id": "osm-2620038861",
+    "name": "C-3 Road",
+    "category": "transit_hub",
+    "lat": 14.6446,
+    "lng": 120.9763
+  },
+  {
+    "id": "osm-2623054157",
+    "name": "Skin Station",
+    "category": "hospital",
+    "lat": 14.1148,
+    "lng": 120.962
+  },
+  {
+    "id": "osm-2641791337",
+    "name": "San Agustin (Pasay City)",
+    "category": "transit_hub",
+    "lat": 14.5364,
+    "lng": 121.0011
+  },
+  {
+    "id": "osm-2655355088",
+    "name": "Tricycle Station",
+    "category": "transit_hub",
+    "lat": 14.6418,
+    "lng": 121.0735
+  },
+  {
+    "id": "osm-2712378142",
+    "name": "Santa Rosa",
+    "category": "transit_hub",
+    "lat": 14.3062,
+    "lng": 121.1098
+  },
+  {
+    "id": "osm-2838870700",
+    "name": "Fairmart",
+    "category": "mall",
+    "lat": 14.6016,
+    "lng": 120.9805
+  },
+  {
+    "id": "osm-2907521653",
+    "name": "Magpoc Maternity Clinic",
+    "category": "hospital",
+    "lat": 14.8393,
+    "lng": 120.8661
+  },
+  {
+    "id": "osm-2960407927",
+    "name": "Cabuyao",
+    "category": "transit_hub",
+    "lat": 14.2799,
+    "lng": 121.1263
+  },
+  {
+    "id": "osm-3045276160",
+    "name": "Malolos Eye Center",
+    "category": "hospital",
+    "lat": 14.8502,
+    "lng": 120.8221
+  },
+  {
+    "id": "osm-3045276161",
+    "name": "Malolos Maternity Hospital",
+    "category": "hospital",
+    "lat": 14.8502,
+    "lng": 120.8223
+  },
+  {
+    "id": "osm-3047200696",
+    "name": "Malolos Klinika & Laboratorio",
+    "category": "hospital",
+    "lat": 14.8505,
+    "lng": 120.8045
+  },
+  {
+    "id": "osm-3054644016",
+    "name": "Good Shepherd Hospital",
+    "category": "hospital",
+    "lat": 14.9025,
+    "lng": 120.8445
+  },
+  {
+    "id": "osm-3062007808",
+    "name": "Malolos Veterinary Clinic",
+    "category": "hospital",
+    "lat": 14.8657,
+    "lng": 120.8212
+  },
+  {
+    "id": "osm-3062591012",
+    "name": "San Nicolas Dental Clinic",
+    "category": "hospital",
+    "lat": 14.902,
+    "lng": 120.8864
+  },
+  {
+    "id": "osm-3074414143",
+    "name": "Punta",
+    "category": "transit_hub",
+    "lat": 14.5833,
+    "lng": 121.0116
+  },
+  {
+    "id": "osm-3084077580",
+    "name": "Z Square",
+    "category": "mall",
+    "lat": 14.6386,
+    "lng": 121.0005
+  },
+  {
+    "id": "osm-3097107345",
+    "name": "Habilities Center for Intervention (Therapy Center)",
+    "category": "hospital",
+    "lat": 14.8605,
+    "lng": 120.8063
+  },
+  {
+    "id": "osm-3097964953",
+    "name": "Physical Medicine & Rehabilitation Malolos",
+    "category": "hospital",
+    "lat": 14.8556,
+    "lng": 120.8119
+  },
+  {
+    "id": "osm-3143390107",
+    "name": "Robinsons Transport Terminal",
+    "category": "transit_hub",
+    "lat": 14.8499,
+    "lng": 120.8234
+  },
+  {
+    "id": "osm-3221659071",
+    "name": "Solaire Shuttle",
+    "category": "transit_hub",
+    "lat": 14.5236,
+    "lng": 120.982
+  },
+  {
+    "id": "osm-3228013843",
+    "name": "Robinsons Place Antipolo",
+    "category": "mall",
+    "lat": 14.5953,
+    "lng": 121.1729
+  },
+  {
+    "id": "osm-3233877629",
+    "name": "Kabayan",
+    "category": "mall",
+    "lat": 14.5542,
+    "lng": 121.0447
+  },
+  {
+    "id": "osm-3235755103",
+    "name": "Victory Shopping Center",
+    "category": "mall",
+    "lat": 14.4207,
+    "lng": 121.0449
+  },
+  {
+    "id": "osm-3267463745",
+    "name": "UV Express South Bound",
+    "category": "transit_hub",
+    "lat": 14.5492,
+    "lng": 121.0255
+  },
+  {
+    "id": "osm-3320513487",
+    "name": "Morales Mall",
+    "category": "mall",
+    "lat": 14.3281,
+    "lng": 121.0904
+  },
+  {
+    "id": "osm-3543035509",
+    "name": "SCML Tricycle Terminal",
+    "category": "transit_hub",
+    "lat": 14.8226,
+    "lng": 120.9535
+  },
+  {
+    "id": "osm-3545972726",
+    "name": "Genesis (Pasay City)",
+    "category": "transit_hub",
+    "lat": 14.5363,
+    "lng": 121.0011
+  },
+  {
+    "id": "osm-3601901966",
+    "name": "Norzagaray - Sta. Maria JODA",
+    "category": "transit_hub",
+    "lat": 14.8219,
+    "lng": 120.9614
+  },
+  {
+    "id": "osm-3602062697",
+    "name": "UV Express Terminal",
+    "category": "transit_hub",
+    "lat": 14.3957,
+    "lng": 120.9686
+  },
+  {
+    "id": "osm-3659300463",
+    "name": "BGC - Ayala Terminal",
+    "category": "transit_hub",
+    "lat": 14.5493,
+    "lng": 121.0293
+  },
+  {
+    "id": "osm-3729342217",
+    "name": "FTI",
+    "category": "transit_hub",
+    "lat": 14.5064,
+    "lng": 121.0356
+  },
+  {
+    "id": "osm-3729353499",
+    "name": "Bicutan",
+    "category": "transit_hub",
+    "lat": 14.488,
+    "lng": 121.0454
+  },
+  {
+    "id": "osm-3741382296",
+    "name": "Paco",
+    "category": "transit_hub",
+    "lat": 14.579,
+    "lng": 120.9992
+  },
+  {
+    "id": "osm-3914069658",
+    "name": "UV Exp - Market Market",
+    "category": "transit_hub",
+    "lat": 14.5898,
+    "lng": 121.0971
+  },
+  {
+    "id": "osm-3969690833",
+    "name": "UV Express (Pasig-Quiapo)",
+    "category": "transit_hub",
+    "lat": 14.5771,
+    "lng": 121.0588
+  },
+  {
+    "id": "osm-4107717630",
+    "name": "San Pedro Doctor's Hospital",
+    "category": "hospital",
+    "lat": 14.3489,
+    "lng": 121.0649
+  },
+  {
+    "id": "osm-4118878391",
+    "name": "First North Luzon Transit - Caloocan Station",
+    "category": "transit_hub",
+    "lat": 14.6538,
+    "lng": 120.9836
+  },
+  {
+    "id": "osm-4167736901",
+    "name": "Harmony Village Mall",
+    "category": "mall",
+    "lat": 14.343,
+    "lng": 121.0386
+  },
+  {
+    "id": "osm-4187178114",
+    "name": "Starplaza Agro",
+    "category": "mall",
+    "lat": 14.3976,
+    "lng": 121.0446
+  },
+  {
+    "id": "osm-4203732991",
+    "name": "Cubao - Divisoria Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.6214,
+    "lng": 121.0493
+  },
+  {
+    "id": "osm-4215291793",
+    "name": "Mambog Tricycle Terminal",
+    "category": "transit_hub",
+    "lat": 14.4245,
+    "lng": 120.9472
+  },
+  {
+    "id": "osm-4271992789",
+    "name": "PUC-Blumentritt Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.6805,
+    "lng": 121.0095
+  },
+  {
+    "id": "osm-4271992889",
+    "name": "PUC-Balintawak Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.6804,
+    "lng": 121.0096
+  },
+  {
+    "id": "osm-4271992989",
+    "name": "Santa Quiteria Tricycle Operators & Drivers Association",
+    "category": "transit_hub",
+    "lat": 14.6803,
+    "lng": 121.0179
+  },
+  {
+    "id": "osm-4426827016",
+    "name": "Marikina Transport Terminal",
+    "category": "transit_hub",
+    "lat": 14.6344,
+    "lng": 121.0976
+  },
+  {
+    "id": "osm-4435497557",
+    "name": "S Maison",
+    "category": "mall",
+    "lat": 14.5319,
+    "lng": 120.9805
+  },
+  {
+    "id": "osm-4443332989",
+    "name": "Mag-Asawang Sapa - Sta. Maria JODA",
+    "category": "transit_hub",
+    "lat": 14.8229,
+    "lng": 120.9601
+  },
+  {
+    "id": "osm-4476244487",
+    "name": "Sucat",
+    "category": "transit_hub",
+    "lat": 14.4523,
+    "lng": 121.0509
+  },
+  {
+    "id": "osm-4476714413",
+    "name": "San Andres",
+    "category": "transit_hub",
+    "lat": 14.5731,
+    "lng": 120.9995
+  },
+  {
+    "id": "osm-4476714415",
+    "name": "Vito Cruz",
+    "category": "transit_hub",
+    "lat": 14.5669,
+    "lng": 121.0028
+  },
+  {
+    "id": "osm-4476756498",
+    "name": "Pandacan",
+    "category": "transit_hub",
+    "lat": 14.5905,
+    "lng": 121.0089
+  },
+  {
+    "id": "osm-4476756499",
+    "name": "Santa Mesa",
+    "category": "transit_hub",
+    "lat": 14.6007,
+    "lng": 121.0103
+  },
+  {
+    "id": "osm-4476852363",
+    "name": "EDSA",
+    "category": "transit_hub",
+    "lat": 14.5412,
+    "lng": 121.0167
+  },
+  {
+    "id": "osm-4476852364",
+    "name": "Nichols",
+    "category": "transit_hub",
+    "lat": 14.5235,
+    "lng": 121.0263
+  },
+  {
+    "id": "osm-4514139354",
+    "name": "SPBSBJODAI Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.3615,
+    "lng": 121.0574
+  },
+  {
+    "id": "osm-4547956794",
+    "name": "Airport Loop (Pasay City)",
+    "category": "transit_hub",
+    "lat": 14.5365,
+    "lng": 121.0012
+  },
+  {
+    "id": "osm-4565001610",
+    "name": "South Park P2P Bus Terminal",
+    "category": "transit_hub",
+    "lat": 14.4123,
+    "lng": 121.0463
+  },
+  {
+    "id": "osm-4719640709",
+    "name": "Manila Pier 9",
+    "category": "transit_hub",
+    "lat": 14.5833,
+    "lng": 120.9652
+  },
+  {
+    "id": "osm-4719640710",
+    "name": "Manila Pier 3",
+    "category": "transit_hub",
+    "lat": 14.5852,
+    "lng": 120.9606
+  },
+  {
+    "id": "osm-4719640711",
+    "name": "Manila Pier 13",
+    "category": "transit_hub",
+    "lat": 14.5814,
+    "lng": 120.9665
+  },
+  {
+    "id": "osm-4719640712",
+    "name": "Manila Pier 5",
+    "category": "transit_hub",
+    "lat": 14.5832,
+    "lng": 120.9621
+  },
+  {
+    "id": "osm-4869792421",
+    "name": "Ospital ng Baras",
+    "category": "hospital",
+    "lat": 14.5215,
+    "lng": 121.2667
+  },
+  {
+    "id": "osm-4916564521",
+    "name": "Perpetual Succor Maternity Hospital",
+    "category": "hospital",
+    "lat": 14.6081,
+    "lng": 120.9923
+  },
+  {
+    "id": "osm-5019918624",
+    "name": "Tagaytay Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.2924,
+    "lng": 121.1038
+  },
+  {
+    "id": "osm-5019918928",
+    "name": "SM Calamba - Expressway Jeepney",
+    "category": "transit_hub",
+    "lat": 14.2932,
+    "lng": 121.1045
+  },
+  {
+    "id": "osm-5047615023",
+    "name": "Van Terminal Balayan",
+    "category": "transit_hub",
+    "lat": 14.5388,
+    "lng": 121.0015
+  },
+  {
+    "id": "osm-5102415355",
+    "name": "SM City Calamba Transport Terminal",
+    "category": "transit_hub",
+    "lat": 14.203,
+    "lng": 121.1546
+  },
+  {
+    "id": "osm-5132486689",
+    "name": "UV Express",
+    "category": "transit_hub",
+    "lat": 14.418,
+    "lng": 121.0419
+  },
+  {
+    "id": "osm-5139494384",
+    "name": "Biñan - Loma Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.2797,
+    "lng": 121.0552
+  },
+  {
+    "id": "osm-5191404475",
+    "name": "Blumentritt",
+    "category": "transit_hub",
+    "lat": 14.6226,
+    "lng": 120.9835
+  },
+  {
+    "id": "osm-5227415758",
+    "name": "Gamez Hospital",
+    "category": "hospital",
+    "lat": 14.213,
+    "lng": 121.1643
+  },
+  {
+    "id": "osm-5271508223",
+    "name": "Monumento - Malinta Exit Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.6566,
+    "lng": 120.9851
+  },
+  {
+    "id": "osm-5285111766",
+    "name": "Tandang Sora",
+    "category": "transit_hub",
+    "lat": 14.6747,
+    "lng": 121.0322
+  },
+  {
+    "id": "osm-5355720943",
+    "name": "Reinalyn Bus Station",
+    "category": "transit_hub",
+    "lat": 14.4148,
+    "lng": 121.0409
+  },
+  {
+    "id": "osm-5355720944",
+    "name": "Festival Mall Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.4179,
+    "lng": 121.0422
+  },
+  {
+    "id": "osm-5377269277",
+    "name": "Katipunan",
+    "category": "transit_hub",
+    "lat": 14.6311,
+    "lng": 121.0728
+  },
+  {
+    "id": "osm-5416366377",
+    "name": "Crossroads Treatment and Rehabilitation Center",
+    "category": "hospital",
+    "lat": 14.5481,
+    "lng": 121.1327
+  },
+  {
+    "id": "osm-5465520022",
+    "name": "JAM Liner",
+    "category": "transit_hub",
+    "lat": 14.5524,
+    "lng": 120.9977
+  },
+  {
+    "id": "osm-5522039286",
+    "name": "Robinsons Place Imus Transport Terminal",
+    "category": "transit_hub",
+    "lat": 14.4124,
+    "lng": 120.9413
+  },
+  {
+    "id": "osm-5524105757",
+    "name": "Solis",
+    "category": "transit_hub",
+    "lat": 14.6269,
+    "lng": 120.9755
+  },
+  {
+    "id": "osm-5525578965",
+    "name": "Sacred Heart",
+    "category": "transit_hub",
+    "lat": 14.7502,
+    "lng": 121.0839
+  },
+  {
+    "id": "osm-5531076372",
+    "name": "Micara Plaza",
+    "category": "mall",
+    "lat": 14.3744,
+    "lng": 120.8293
+  },
+  {
+    "id": "osm-5534998608",
+    "name": "Asistio (10th) Avenue",
+    "category": "transit_hub",
+    "lat": 14.6519,
+    "lng": 120.9748
+  },
+  {
+    "id": "osm-5580317585",
+    "name": "DVDOTSC Pala-Pala Modern Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.3017,
+    "lng": 120.9539
+  },
+  {
+    "id": "osm-5608181621",
+    "name": "LLI Bus Company",
+    "category": "transit_hub",
+    "lat": 14.2051,
+    "lng": 121.1566
+  },
+  {
+    "id": "osm-5620738110",
+    "name": "WalterMart Trece Martires",
+    "category": "transit_hub",
+    "lat": 14.2806,
+    "lng": 120.8712
+  },
+  {
+    "id": "osm-5649225523",
+    "name": "Super 89",
+    "category": "mall",
+    "lat": 14.5852,
+    "lng": 121.1758
+  },
+  {
+    "id": "osm-5728168799",
+    "name": "Bonifacio Global City",
+    "category": "transit_hub",
+    "lat": 14.5494,
+    "lng": 121.0546
+  },
+  {
+    "id": "osm-5746203921",
+    "name": "Micah Clinic",
+    "category": "hospital",
+    "lat": 14.5728,
+    "lng": 120.9927
+  },
+  {
+    "id": "osm-5778970603",
+    "name": "Alma Jose Tricycle Terminal",
+    "category": "transit_hub",
+    "lat": 14.7463,
+    "lng": 121.0457
+  },
+  {
+    "id": "osm-5778970606",
+    "name": "Franville IV Tricycle Terminal",
+    "category": "transit_hub",
+    "lat": 14.7452,
+    "lng": 121.0457
+  },
+  {
+    "id": "osm-5780762289",
+    "name": "Mashie store",
+    "category": "mall",
+    "lat": 14.77,
+    "lng": 120.9842
+  },
+  {
+    "id": "osm-6006851691",
+    "name": "The Strip Mall",
+    "category": "mall",
+    "lat": 14.6011,
+    "lng": 121.0882
+  },
+  {
+    "id": "osm-6006974256",
+    "name": "Bagumbayan Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.6063,
+    "lng": 121.0821
+  },
+  {
+    "id": "osm-6008802285",
+    "name": "UV Express Binangonan Terminal",
+    "category": "transit_hub",
+    "lat": 14.4696,
+    "lng": 121.1903
+  },
+  {
+    "id": "osm-6008944345",
+    "name": "Caloocan",
+    "category": "transit_hub",
+    "lat": 14.6569,
+    "lng": 120.9739
+  },
+  {
+    "id": "osm-6011953702",
+    "name": "Ambulatory CPU Lingap Bata – UST Medical Social Service Dapartment",
+    "category": "hospital",
+    "lat": 14.6115,
+    "lng": 120.9901
+  },
+  {
+    "id": "osm-6036095585",
+    "name": "Fatima University Medical Center",
+    "category": "hospital",
+    "lat": 14.6193,
+    "lng": 121.1523
+  },
+  {
+    "id": "osm-6094516077",
+    "name": "King of Kings Servant Healer Medical Clinic",
+    "category": "hospital",
+    "lat": 14.4339,
+    "lng": 120.9893
+  },
+  {
+    "id": "osm-6127598092",
+    "name": "Tricycle terminal",
+    "category": "transit_hub",
+    "lat": 14.4034,
+    "lng": 120.9032
+  },
+  {
+    "id": "osm-6192293786",
+    "name": "manila east medical center",
+    "category": "hospital",
+    "lat": 14.5741,
+    "lng": 121.1437
+  },
+  {
+    "id": "osm-6313750523",
+    "name": "Camp Aguinaldo",
+    "category": "transit_hub",
+    "lat": 14.613,
+    "lng": 121.0695
+  },
+  {
+    "id": "osm-6351453988",
+    "name": "Philippine Medical Tests System",
+    "category": "hospital",
+    "lat": 14.6359,
+    "lng": 121.0246
+  },
+  {
+    "id": "osm-6366495475",
+    "name": "Tricycle Terminal",
+    "category": "transit_hub",
+    "lat": 14.4879,
+    "lng": 121.0476
+  },
+  {
+    "id": "osm-6366495476",
+    "name": "Bicutan Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.4881,
+    "lng": 121.0484
+  },
+  {
+    "id": "osm-6380993970",
+    "name": "Doctor J. Sabili General Hospital",
+    "category": "hospital",
+    "lat": 14.4889,
+    "lng": 121.0578
+  },
+  {
+    "id": "osm-6575020692",
+    "name": "SPTC Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.3677,
+    "lng": 121.0509
+  },
+  {
+    "id": "osm-6601658613",
+    "name": "Alegria Plaza Mall",
+    "category": "mall",
+    "lat": 14.3966,
+    "lng": 120.9715
+  },
+  {
+    "id": "osm-6601658615",
+    "name": "Prime Global Care Medical Center Inc.",
+    "category": "hospital",
+    "lat": 14.398,
+    "lng": 120.9743
+  },
+  {
+    "id": "osm-6622875885",
+    "name": "JAPS - Calamba Terminal",
+    "category": "transit_hub",
+    "lat": 14.2073,
+    "lng": 121.1542
+  },
+  {
+    "id": "osm-6709327266",
+    "name": "Governor Pascual",
+    "category": "transit_hub",
+    "lat": 14.6703,
+    "lng": 120.9727
+  },
+  {
+    "id": "osm-7001631780",
+    "name": "Pwesto Community Mall",
+    "category": "mall",
+    "lat": 14.6821,
+    "lng": 121.0798
+  },
+  {
+    "id": "osm-7029085834",
+    "name": "IRRI",
+    "category": "transit_hub",
+    "lat": 14.1677,
+    "lng": 121.2542
+  },
+  {
+    "id": "osm-7278748585",
+    "name": "Vian Family Hospital II",
+    "category": "hospital",
+    "lat": 14.6828,
+    "lng": 121.0211
+  },
+  {
+    "id": "osm-7296603885",
+    "name": "RCJ Bus Line - Sampaloc Terminal",
+    "category": "transit_hub",
+    "lat": 14.6095,
+    "lng": 120.9932
+  },
+  {
+    "id": "osm-7357770986",
+    "name": "M. V. Santiago Medical & Diagnostic Center",
+    "category": "hospital",
+    "lat": 14.1969,
+    "lng": 120.8768
+  },
+  {
+    "id": "osm-7401438039",
+    "name": "Langgam Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.3303,
+    "lng": 121.0191
+  },
+  {
+    "id": "osm-7409731885",
+    "name": "WalterMart",
+    "category": "mall",
+    "lat": 14.6568,
+    "lng": 121.0208
+  },
+  {
+    "id": "osm-7428181596",
+    "name": "Rosal Medical Clinic",
+    "category": "hospital",
+    "lat": 14.2215,
+    "lng": 120.974
+  },
+  {
+    "id": "osm-7428185588",
+    "name": "Silang Rural Health Unit",
+    "category": "hospital",
+    "lat": 14.2172,
+    "lng": 120.972
+  },
+  {
+    "id": "osm-7436884261",
+    "name": "OBCH TODA",
+    "category": "transit_hub",
+    "lat": 14.6707,
+    "lng": 121.0783
+  },
+  {
+    "id": "osm-7505572035",
+    "name": "Bagumbayan-Santolan Ferry",
+    "category": "transit_hub",
+    "lat": 14.6081,
+    "lng": 121.0854
+  },
+  {
+    "id": "osm-7738463593",
+    "name": "UV Express to Ayala and Megamall",
+    "category": "transit_hub",
+    "lat": 14.6256,
+    "lng": 121.1234
+  },
+  {
+    "id": "osm-7880494177",
+    "name": "Powerplant Mall",
+    "category": "mall",
+    "lat": 14.5646,
+    "lng": 121.0363
+  },
+  {
+    "id": "osm-7880986554",
+    "name": "Santolan-Bagumbayan Ferry",
+    "category": "transit_hub",
+    "lat": 14.6084,
+    "lng": 121.0861
+  },
+  {
+    "id": "osm-8191463019",
+    "name": "UV Express  terminal, Antipolo",
+    "category": "transit_hub",
+    "lat": 14.5867,
+    "lng": 121.1748
+  },
+  {
+    "id": "osm-8337789095",
+    "name": "Duty Free Philippines",
+    "category": "mall",
+    "lat": 14.5065,
+    "lng": 121.0043
+  },
+  {
+    "id": "osm-8424682317",
+    "name": "Our Lady of Grace Hospital",
+    "category": "hospital",
+    "lat": 14.6489,
+    "lng": 120.9814
+  },
+  {
+    "id": "osm-8510387313",
+    "name": "PLTODA / CAA Tricycle Terminal",
+    "category": "transit_hub",
+    "lat": 14.4609,
+    "lng": 120.9946
+  },
+  {
+    "id": "osm-8686615942",
+    "name": "Robinsons Place Dasmariñas Bus Station",
+    "category": "transit_hub",
+    "lat": 14.2991,
+    "lng": 120.9546
+  },
+  {
+    "id": "osm-8688080462",
+    "name": "San Lorenzo Place Mall",
+    "category": "mall",
+    "lat": 14.5423,
+    "lng": 121.0186
+  },
+  {
+    "id": "osm-8712139517",
+    "name": "Airport Road - NAIA Terminal 3 Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.5279,
+    "lng": 120.9996
+  },
+  {
+    "id": "osm-8720440617",
+    "name": "Santa Monica Shop & Ride",
+    "category": "transit_hub",
+    "lat": 14.7233,
+    "lng": 121.0416
+  },
+  {
+    "id": "osm-8720820470",
+    "name": "Queensberry",
+    "category": "hospital",
+    "lat": 14.7239,
+    "lng": 121.0397
+  },
+  {
+    "id": "osm-8737517378",
+    "name": "Our Lady of Lourdes Hospital",
+    "category": "hospital",
+    "lat": 14.7192,
+    "lng": 121.0067
+  },
+  {
+    "id": "osm-9325946385",
+    "name": "Manila Pier 12",
+    "category": "transit_hub",
+    "lat": 14.6102,
+    "lng": 120.9576
+  },
+  {
+    "id": "osm-9325946387",
+    "name": "Manila Pier 10",
+    "category": "transit_hub",
+    "lat": 14.6082,
+    "lng": 120.9578
+  },
+  {
+    "id": "osm-9325946389",
+    "name": "Manila Pier 6",
+    "category": "transit_hub",
+    "lat": 14.6043,
+    "lng": 120.9581
+  },
+  {
+    "id": "osm-9325946413",
+    "name": "Manila Pier 8",
+    "category": "transit_hub",
+    "lat": 14.6062,
+    "lng": 120.9579
+  },
+  {
+    "id": "osm-9613435162",
+    "name": "San Antonio Plaza Arcade",
+    "category": "mall",
+    "lat": 14.5472,
+    "lng": 121.0351
+  },
+  {
+    "id": "osm-9901864861",
+    "name": "The Shops Ayala Triangle Gardens",
+    "category": "mall",
+    "lat": 14.5569,
+    "lng": 121.025
+  },
+  {
+    "id": "osm-9948629187",
+    "name": "Ospital ng Lunsod ng Tagaytay",
+    "category": "hospital",
+    "lat": 14.1225,
+    "lng": 120.9577
+  },
+  {
+    "id": "osm-10145013417",
+    "name": "LRT Marikina",
+    "category": "transit_hub",
+    "lat": 14.6202,
+    "lng": 121.0993
+  },
+  {
+    "id": "osm-10176054518",
+    "name": "CAAODA Cardona AUV Terminal",
+    "category": "transit_hub",
+    "lat": 14.4842,
+    "lng": 121.2325
+  },
+  {
+    "id": "osm-10310666430",
+    "name": "Balibago–Turbina via Eton Exit",
+    "category": "transit_hub",
+    "lat": 14.1852,
+    "lng": 121.1369
+  },
+  {
+    "id": "osm-10720522998",
+    "name": "Notetoda T. Samson Terminal",
+    "category": "transit_hub",
+    "lat": 14.7399,
+    "lng": 121.0254
+  },
+  {
+    "id": "osm-10728754843",
+    "name": "588 Shopping Mall",
+    "category": "mall",
+    "lat": 14.9007,
+    "lng": 120.8676
+  },
+  {
+    "id": "osm-10733949885",
+    "name": "San Dionisio TSC Sucat Terminal",
+    "category": "transit_hub",
+    "lat": 14.4478,
+    "lng": 121.045
+  },
+  {
+    "id": "osm-10764558128",
+    "name": "Laon Laan",
+    "category": "transit_hub",
+    "lat": 14.6176,
+    "lng": 120.9916
+  },
+  {
+    "id": "osm-10779150805",
+    "name": "Robinsons Place General Trias Transport Terminal",
+    "category": "transit_hub",
+    "lat": 14.3961,
+    "lng": 120.8645
+  },
+  {
+    "id": "osm-10784544409",
+    "name": "BP Toda Terminal",
+    "category": "transit_hub",
+    "lat": 14.7457,
+    "lng": 121.0022
+  },
+  {
+    "id": "osm-10861990363",
+    "name": "U.V. Express Terminal - To SM Fairview",
+    "category": "transit_hub",
+    "lat": 14.7418,
+    "lng": 121.022
+  },
+  {
+    "id": "osm-10915939500",
+    "name": "Jordan Plains-Philcoa Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.723,
+    "lng": 121.042
+  },
+  {
+    "id": "osm-10926780815",
+    "name": "VSMM Tricycle Terminal",
+    "category": "transit_hub",
+    "lat": 14.7278,
+    "lng": 120.9614
+  },
+  {
+    "id": "osm-10982699705",
+    "name": "Pasinaya Homes West Tricycle Terminal",
+    "category": "transit_hub",
+    "lat": 14.3228,
+    "lng": 120.8027
+  },
+  {
+    "id": "osm-11006933787",
+    "name": "Tierra Vista Tricycle Station",
+    "category": "transit_hub",
+    "lat": 14.296,
+    "lng": 120.945
+  },
+  {
+    "id": "osm-11082277450",
+    "name": "Unciano Paramedical General Hospital",
+    "category": "hospital",
+    "lat": 14.6007,
+    "lng": 121.0162
+  },
+  {
+    "id": "osm-11328746229",
+    "name": "Alabang",
+    "category": "transit_hub",
+    "lat": 14.4172,
+    "lng": 121.0477
+  },
+  {
+    "id": "osm-11329697351",
+    "name": "Cubao",
+    "category": "transit_hub",
+    "lat": 14.6195,
+    "lng": 121.0511
+  },
+  {
+    "id": "osm-11329697352",
+    "name": "Shaw Boulevard",
+    "category": "transit_hub",
+    "lat": 14.5811,
+    "lng": 121.0535
+  },
+  {
+    "id": "osm-11377300272",
+    "name": "UV Express Service",
+    "category": "transit_hub",
+    "lat": 14.7408,
+    "lng": 121.0243
+  },
+  {
+    "id": "osm-11436232472",
+    "name": "MS Toda",
+    "category": "transit_hub",
+    "lat": 14.8791,
+    "lng": 120.9832
+  },
+  {
+    "id": "osm-11524793675",
+    "name": "Duhat Tricycle Terminal",
+    "category": "transit_hub",
+    "lat": 14.3761,
+    "lng": 121.0541
+  },
+  {
+    "id": "osm-11736202650",
+    "name": "TS Cruz Tricycle Terminal",
+    "category": "transit_hub",
+    "lat": 14.4284,
+    "lng": 121.0172
+  },
+  {
+    "id": "osm-11760406138",
+    "name": "RPHS II",
+    "category": "hospital",
+    "lat": 14.5782,
+    "lng": 121.1861
+  },
+  {
+    "id": "osm-11799237867",
+    "name": "Wawang Pulo",
+    "category": "transit_hub",
+    "lat": 14.7349,
+    "lng": 120.9289
+  },
+  {
+    "id": "osm-11835983185",
+    "name": "Del Rosario Transportation UV Express Service",
+    "category": "transit_hub",
+    "lat": 14.7416,
+    "lng": 121.0245
+  },
+  {
+    "id": "osm-11846809083",
+    "name": "NAIA bus terminal (direct to et from airport)",
+    "category": "transit_hub",
+    "lat": 14.5365,
+    "lng": 121.0009
+  },
+  {
+    "id": "osm-11930763269",
+    "name": "Lying-In",
+    "category": "hospital",
+    "lat": 14.2672,
+    "lng": 121.1422
+  },
+  {
+    "id": "osm-11980201640",
+    "name": "Balikatan Tricycle Terminal",
+    "category": "transit_hub",
+    "lat": 14.4569,
+    "lng": 120.9951
+  },
+  {
+    "id": "osm-12115282487",
+    "name": "Multicab - Honda Terminal",
+    "category": "transit_hub",
+    "lat": 14.4269,
+    "lng": 121.0223
+  },
+  {
+    "id": "osm-12193991210",
+    "name": "CSM Dental Clinic",
+    "category": "hospital",
+    "lat": 14.6587,
+    "lng": 120.9525
+  },
+  {
+    "id": "osm-12194623363",
+    "name": "CB Dialysis Center",
+    "category": "hospital",
+    "lat": 14.6603,
+    "lng": 120.9513
+  },
+  {
+    "id": "osm-12452985576",
+    "name": "Three Central Mall",
+    "category": "mall",
+    "lat": 14.56,
+    "lng": 121.0183
+  },
+  {
+    "id": "osm-12462520896",
+    "name": "Tricycle Terminal (Palengke)",
+    "category": "transit_hub",
+    "lat": 14.5014,
+    "lng": 121.0495
+  },
+  {
+    "id": "osm-12496195985",
+    "name": "Disiplina Village Transport Terminal",
+    "category": "transit_hub",
+    "lat": 14.7479,
+    "lng": 120.9959
+  },
+  {
+    "id": "osm-12496195998",
+    "name": "Bignay Health Station",
+    "category": "hospital",
+    "lat": 14.7479,
+    "lng": 120.9968
+  },
+  {
+    "id": "osm-12497776703",
+    "name": "818 Mall",
+    "category": "mall",
+    "lat": 14.6028,
+    "lng": 120.9696
+  },
+  {
+    "id": "osm-12653929570",
+    "name": "Barcads UVE Terminal",
+    "category": "transit_hub",
+    "lat": 14.722,
+    "lng": 121.0362
+  },
+  {
+    "id": "osm-12679857080",
+    "name": "Pamana Medical Center",
+    "category": "hospital",
+    "lat": 14.1983,
+    "lng": 121.1617
+  },
+  {
+    "id": "osm-12679914409",
+    "name": "City Medical Hospital",
+    "category": "hospital",
+    "lat": 14.3163,
+    "lng": 121.1079
+  },
+  {
+    "id": "osm-12752311664",
+    "name": "NAIA Terminal 3",
+    "category": "transit_hub",
+    "lat": 14.5204,
+    "lng": 121.015
+  },
+  {
+    "id": "osm-12762035168",
+    "name": "UV Express Terminal - Victoria RV1 to Alabang",
+    "category": "transit_hub",
+    "lat": 14.3649,
+    "lng": 121.0128
+  },
+  {
+    "id": "osm-12762035169",
+    "name": "Vacati Premium Transport Incorporation Terminal",
+    "category": "transit_hub",
+    "lat": 14.365,
+    "lng": 121.0125
+  },
+  {
+    "id": "osm-12777009142",
+    "name": "SNODLOB UPLB - Jubileeville",
+    "category": "transit_hub",
+    "lat": 14.166,
+    "lng": 121.2439
+  },
+  {
+    "id": "osm-12777009143",
+    "name": "SNODLOB Jubileeville - UPLB",
+    "category": "transit_hub",
+    "lat": 14.1501,
+    "lng": 121.2725
+  },
+  {
+    "id": "osm-12799946102",
+    "name": "Partas Bus Terminal",
+    "category": "transit_hub",
+    "lat": 14.5344,
+    "lng": 121.0038
+  },
+  {
+    "id": "osm-12839109900",
+    "name": "Northern Tagalog Regional Hospital",
+    "category": "hospital",
+    "lat": 14.7525,
+    "lng": 121.1325
+  },
+  {
+    "id": "osm-12843546296",
+    "name": "HM Transport Inc.",
+    "category": "transit_hub",
+    "lat": 14.2114,
+    "lng": 121.1236
+  },
+  {
+    "id": "osm-12894817496",
+    "name": "Circle C",
+    "category": "mall",
+    "lat": 14.6708,
+    "lng": 121.0374
+  },
+  {
+    "id": "osm-12915010448",
+    "name": "Masili",
+    "category": "transit_hub",
+    "lat": 14.1791,
+    "lng": 121.2007
+  },
+  {
+    "id": "osm-12915010449",
+    "name": "Pansol",
+    "category": "transit_hub",
+    "lat": 14.1786,
+    "lng": 121.1837
+  },
+  {
+    "id": "osm-12915368713",
+    "name": "Los Baños",
+    "category": "transit_hub",
+    "lat": 14.1783,
+    "lng": 121.2216
+  },
+  {
+    "id": "osm-12919658422",
+    "name": "College",
+    "category": "transit_hub",
+    "lat": 14.1819,
+    "lng": 121.2402
+  },
+  {
+    "id": "osm-12923097182",
+    "name": "TriNoma Mindanao Lobby",
+    "category": "mall",
+    "lat": 14.6525,
+    "lng": 121.0342
+  },
+  {
+    "id": "osm-12923097183",
+    "name": "Zing! Mall Entrance",
+    "category": "mall",
+    "lat": 14.6539,
+    "lng": 121.0332
+  },
+  {
+    "id": "osm-13003695353",
+    "name": "Calamba",
+    "category": "transit_hub",
+    "lat": 14.207,
+    "lng": 121.158
+  },
+  {
+    "id": "osm-13069341796",
+    "name": "Kersteen Transport Bus Station",
+    "category": "transit_hub",
+    "lat": 14.1684,
+    "lng": 120.9246
+  },
+  {
+    "id": "osm-13126324839",
+    "name": "Fortune King Pasinaya Homes Central",
+    "category": "mall",
+    "lat": 14.3183,
+    "lng": 120.8086
+  },
+  {
+    "id": "osm-13166806413",
+    "name": "UP-Katipunan Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.6324,
+    "lng": 121.0742
+  },
+  {
+    "id": "osm-13461756555",
+    "name": "Sunrise Tricycle Terminal",
+    "category": "transit_hub",
+    "lat": 14.2788,
+    "lng": 121.1456
+  },
+  {
+    "id": "osm-13478815689",
+    "name": "East Avenue",
+    "category": "transit_hub",
+    "lat": 14.637,
+    "lng": 121.0497
+  },
+  {
+    "id": "osm-13478815690",
+    "name": "Anonas",
+    "category": "transit_hub",
+    "lat": 14.6267,
+    "lng": 121.0645
+  },
+  {
+    "id": "osm-13495903503",
+    "name": "Solaire Resort North",
+    "category": "transit_hub",
+    "lat": 14.6501,
+    "lng": 121.0351
+  },
+  {
+    "id": "osm-13518301439",
+    "name": "UBE Bus",
+    "category": "transit_hub",
+    "lat": 14.5746,
+    "lng": 120.9842
+  },
+  {
+    "id": "osm-13564626500",
+    "name": "Kalayaan Avenue",
+    "category": "transit_hub",
+    "lat": 14.558,
+    "lng": 121.0557
+  },
+  {
+    "id": "osm-13564639203",
+    "name": "Lawton Avenue",
+    "category": "transit_hub",
+    "lat": 14.5366,
+    "lng": 121.0402
+  },
+  {
+    "id": "osm-13564783062",
+    "name": "Ortigas",
+    "category": "transit_hub",
+    "lat": 14.5853,
+    "lng": 121.0641
+  },
+  {
+    "id": "osm-13564783064",
+    "name": "Senate-DepEd",
+    "category": "transit_hub",
+    "lat": 14.5288,
+    "lng": 121.0235
+  },
+  {
+    "id": "osm-13565686432",
+    "name": "Ayala Malls Arca South",
+    "category": "mall",
+    "lat": 14.5056,
+    "lng": 121.0444
+  },
+  {
+    "id": "osm-13565942041",
+    "name": "Quirino Highway",
+    "category": "transit_hub",
+    "lat": 14.6894,
+    "lng": 121.0286
+  },
+  {
+    "id": "osm-13565942044",
+    "name": "North Avenue",
+    "category": "transit_hub",
+    "lat": 14.6576,
+    "lng": 121.0363
+  },
+  {
+    "id": "osm-13565942045",
+    "name": "Quezon Avenue",
+    "category": "transit_hub",
+    "lat": 14.6459,
+    "lng": 121.037
+  },
+  {
+    "id": "osm-13571995038",
+    "name": "Quezon Memorial Circle",
+    "category": "transit_hub",
+    "lat": 14.6522,
+    "lng": 121.0476
+  },
+  {
+    "id": "osm-13571995040",
+    "name": "University Avenue",
+    "category": "transit_hub",
+    "lat": 14.6551,
+    "lng": 121.055
+  },
+  {
+    "id": "osm-13571995044",
+    "name": "Don Antonio",
+    "category": "transit_hub",
+    "lat": 14.677,
+    "lng": 121.0827
+  },
+  {
+    "id": "osm-13571995050",
+    "name": "Batasan",
+    "category": "transit_hub",
+    "lat": 14.6851,
+    "lng": 121.0863
+  },
+  {
+    "id": "osm-13571995052",
+    "name": "Manggahan",
+    "category": "transit_hub",
+    "lat": 14.6975,
+    "lng": 121.0874
+  },
+  {
+    "id": "osm-13571995054",
+    "name": "Doña Carmen",
+    "category": "transit_hub",
+    "lat": 14.7051,
+    "lng": 121.0784
+  },
+  {
+    "id": "osm-13571995056",
+    "name": "Regalado Avenue",
+    "category": "transit_hub",
+    "lat": 14.7065,
+    "lng": 121.0679
+  },
+  {
+    "id": "osm-13571995058",
+    "name": "Mindanao Avenue",
+    "category": "transit_hub",
+    "lat": 14.7331,
+    "lng": 121.0612
+  },
+  {
+    "id": "osm-13571995062",
+    "name": "Quirino",
+    "category": "transit_hub",
+    "lat": 14.7355,
+    "lng": 121.0666
+  },
+  {
+    "id": "osm-13686694948",
+    "name": "East Valenzuela",
+    "category": "transit_hub",
+    "lat": 14.7084,
+    "lng": 121.0138
+  },
+  {
+    "id": "osm-13705258967",
+    "name": "Tutuban",
+    "category": "transit_hub",
+    "lat": 14.612,
+    "lng": 120.9733
+  },
+  {
+    "id": "osm-13760723167",
+    "name": "Fame Mall",
+    "category": "mall",
+    "lat": 14.5775,
+    "lng": 121.0523
+  },
+  {
+    "id": "osm-13921530724",
+    "name": "PERJODA Pala-pala Modern Jeepney Terminal",
+    "category": "transit_hub",
+    "lat": 14.3016,
+    "lng": 120.9539
+  },
+  {
+    "id": "osm-13994436080",
+    "name": "Sparkle Tooth Dental Clinic",
+    "category": "hospital",
+    "lat": 14.2636,
+    "lng": 121.0789
+  },
+  {
+    "id": "osm-14073982156",
+    "name": "St. Mattheus Medical Hospital, Inc.",
+    "category": "hospital",
+    "lat": 14.6738,
+    "lng": 121.1097
+  },
+  {
+    "id": "osm-14142216485",
+    "name": "Amsi Doctors Medical Center",
+    "category": "hospital",
+    "lat": 14.194,
+    "lng": 121.1654
+  }
+]

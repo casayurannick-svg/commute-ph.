@@ -23,6 +23,8 @@ import {
   Tag,
   RefreshCw,
 } from 'lucide-react';
+import PlaceSearch, { POIItem } from '@/components/PlaceSearch';
+import { calculateHaversineDistance } from '@/lib/distance';
 import {
   FareRule,
   TripInput,
@@ -53,6 +55,8 @@ const NCR_PRESETS = [
 
 export default function CommuterHomePage() {
   // Input states
+  const [origin, setOrigin] = useState<POIItem | null>(null);
+  const [destination, setDestination] = useState<POIItem | null>(null);
   const [distanceKm, setDistanceKm] = useState<number>(7.5);
   const [profile, setProfile] = useState<PassengerProfile>('regular');
   const [sortBy, setSortBy] = useState<SortOption>('cost_asc');
@@ -87,6 +91,19 @@ export default function CommuterHomePage() {
 
     fetchFareData();
   }, []);
+
+  // Automatically calculate Haversine distance when origin & destination are selected
+  useEffect(() => {
+    if (origin && destination) {
+      const computedKm = calculateHaversineDistance(
+        origin.lat,
+        origin.lng,
+        destination.lat,
+        destination.lng
+      );
+      setDistanceKm(Math.max(0.1, computedKm));
+    }
+  }, [origin, destination]);
 
   // Compute comparison using pure engine functions and Turso fare rules
   const comparisonResult = useMemo(() => {
@@ -182,9 +199,25 @@ export default function CommuterHomePage() {
 
         {/* Form Card (Mobile-First) */}
         <section className="bg-slate-900 border border-slate-800 rounded-2xl p-4 sm:p-6 shadow-xl space-y-5">
+          {/* Place Search Inputs */}
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            <PlaceSearch
+              label="Simula (Origin)"
+              placeholder="e.g. Monumento, Cubao, Quiapo..."
+              onSelectPlace={(poi) => setOrigin(poi)}
+              selectedPlace={origin}
+            />
+            <PlaceSearch
+              label="Pupuntahan (Destination)"
+              placeholder="e.g. BGC, Ayala Makati, PITX..."
+              onSelectPlace={(poi) => setDestination(poi)}
+              selectedPlace={destination}
+            />
+          </div>
+
           {/* Route Map Component */}
           <div>
-            <RouteMap />
+            <RouteMap origin={origin} destination={destination} />
           </div>
 
           {/* Distance Input */}

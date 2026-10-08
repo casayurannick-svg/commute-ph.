@@ -25,6 +25,8 @@ import {
 } from 'lucide-react';
 import PlaceSearch, { POIItem } from '@/components/PlaceSearch';
 import { calculateHaversineDistance } from '@/lib/distance';
+import BuyMeCoffeeButton from '@/components/BuyMeCoffeeButton';
+import FeedbackWidget from '@/components/FeedbackWidget';
 import {
   FareRule,
   TripInput,
@@ -174,6 +176,8 @@ export default function CommuterHomePage() {
           </div>
 
           <div className="flex items-center gap-2">
+            <BuyMeCoffeeButton />
+            <FeedbackWidget />
             <Link
               href="/admin"
               className="text-xs font-medium text-slate-400 hover:text-slate-200 px-2.5 py-1.5 rounded-lg border border-slate-800 hover:border-slate-700 bg-slate-900 transition flex items-center gap-1"

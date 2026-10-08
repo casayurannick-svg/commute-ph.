@@ -24,6 +24,10 @@ CommutePH is a modern, open-source transit cost calculator and fare engine built
 - **Overpass API POI Extraction**: Script (`scripts/fetch-osm-pois.ts` / `npm run fetch-pois`) queries OpenStreetMap via Overpass API within the expanded Greater Manila Area bounding box (`[14.10, 120.80, 15.00, 121.40]`) covering Metro Manila, Cavite, Laguna, Rizal, and Bulacan for transit stations, malls, and hospitals, filtering out unnamed entries and deduplicating names.
 - **Haversine Distance Engine**: Mathematical distance utility (`src/lib/distance.ts`) that automatically computes great-circle distance between chosen origin/destination coordinates and updates the fare engine's distance slider.
 
+### 5. Community Feedback & Support Buttons
+- **GitHub-Powered Feedback Widget**: Users can submit feedback or bug reports directly from the UI modal (`src/components/FeedbackWidget.tsx`). Submissions trigger `/api/feedback` to create GitHub issues using the `GITHUB_TOKEN` environment variable.
+- **Buy Me a Coffee Button**: UI support component (`src/components/BuyMeCoffeeButton.tsx`) for community donations.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -59,6 +63,9 @@ ADMIN_SECRET=commuteph-secret-key-2026
 # Database Configuration (Turso cloud or local SQLite file)
 TURSO_DATABASE_URL=file:commute_fares.db
 TURSO_AUTH_TOKEN=your_turso_auth_token_here
+
+# GitHub Personal Access Token (for user feedback & issue creation)
+GITHUB_TOKEN=your_github_personal_access_token_here
 ```
 
 ### 4. Database Setup & Seeding

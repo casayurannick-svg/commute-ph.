@@ -30,6 +30,8 @@ CommutePH is a modern, open-source transit cost calculator and fare engine built
 - **Place Search Component**: Offline debounced autocomplete (`src/components/PlaceSearch.tsx`) querying Metro Manila & Greater Manila Area POIs (`src/data/manila-poi.json`).
 - **Overpass API POI Extraction**: Script (`scripts/fetch-osm-pois.ts` / `npm run fetch-pois`) queries OpenStreetMap via Overpass API within the expanded Greater Manila Area bounding box (`[14.10, 120.80, 15.00, 121.40]`) covering Metro Manila, Cavite, Laguna, Rizal, and Bulacan for transit stations, malls, and hospitals, filtering out unnamed entries and deduplicating names.
 - **Haversine Distance Engine**: Mathematical distance utility (`src/lib/distance.ts`) that automatically computes great-circle distance between chosen origin/destination coordinates and updates the fare engine's distance slider.
+- **OSRM Road Distance Integration**: Uses the public OSRM API (`http://router.project-osrm.org`) to fetch realistic road distances for selected routes; gracefully falls back to the Haversine calculation when offline or the request fails.
+
 
 ### 5. Community Feedback & Support Buttons
 - **GitHub-Powered Feedback Widget**: Users can submit feedback or bug reports directly from the UI modal (`src/components/FeedbackWidget.tsx`). Submissions trigger `/api/feedback` to create GitHub issues using the `GITHUB_TOKEN` environment variable.

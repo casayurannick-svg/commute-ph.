@@ -25,6 +25,7 @@ import {
 } from 'lucide-react';
 import PlaceSearch, { POIItem } from '@/components/PlaceSearch';
 import { calculateHaversineDistance } from '@/lib/distance';
+import { fetchRoadDistance } from '@/lib/osrm';
 import BuyMeCoffeeButton from '@/components/BuyMeCoffeeButton';
 import FeedbackWidget from '@/components/FeedbackWidget';
 import {
@@ -97,13 +98,20 @@ export default function CommuterHomePage() {
   // Automatically calculate Haversine distance when origin & destination are selected
   useEffect(() => {
     if (origin && destination) {
-      const computedKm = calculateHaversineDistance(
-        origin.lat,
-        origin.lng,
-        destination.lat,
-        destination.lng
-      );
-      setDistanceKm(Math.max(0.1, computedKm));
+      (async () => {
+        const roadKm = await fetchRoadDistance(origin, destination);
+        if (roadKm !== null) {
+          setDistanceKm(Math.max(0.1, roadKm));
+        } else {
+          const computedKm = calculateHaversineDistance(
+            origin.lat,
+            origin.lng,
+            destination.lat,
+            destination.lng
+          );
+          setDistanceKm(Math.max(0.1, computedKm));
+        }
+      })();
     }
   }, [origin, destination]);
 
